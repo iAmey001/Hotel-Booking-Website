@@ -8,7 +8,7 @@
 	define('CHANNEL_ID', 'WEB'); // Change this constant with website channel id given by paytm
 	
 	// Change the below constant with callback url accrodingly -> but dont change the file pay_resonse.php
-	define('CALLBACK_URL', 'http://localhost/hbwebsite/pay_response.php'); 
+	define('CALLBACK_URL', 'http://localhost/hotelbooking/pay_response.php'); 
 
 
 	$PAYTM_STATUS_QUERY_NEW_URL='https://securegw-stage.paytm.in/merchant-status/getTxnStatus';
