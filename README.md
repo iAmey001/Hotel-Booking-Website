@@ -83,8 +83,24 @@ DOWNLOAD the zip file "Hotel Booking Website"
 
 ## SCREENSHOTS
 
+Home Page:
+![index](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181018.png)
+![index]()
+![index]()
+![index]()
+User Registration:
+![register]()
+User Login:
+![login]()
+Rooms Page:
+![rooms]()
+Admin 
+![admin]()
+![admin]()
+![admin]()
 
-   
+
+
 <br>
 
 ## CONTRIBUTORS
