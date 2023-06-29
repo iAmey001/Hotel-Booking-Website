@@ -1,5 +1,24 @@
 # HOTEL BOOKING WEBSITE
 
+<div align="center">
+  
+  ![](https://img.shields.io/github/forks/iAmey001/Hotel-Booking-Website?style=for-the-badge) &emsp; &emsp;
+  ![](https://img.shields.io/github/stars/iAmey001/Hotel-Booking-Website?style=for-the-badge)
+</div>
+
+<hr>
+
+<details>
+<summary>Table of Contents</summary>
+
+- [Abstract](#abstract)
+- [Software Requirements](#software-requirements)
+- [Instructions](#instructions)
+- [Screenshots](#screenshots)
+- [Contributors](#contributors)
+
+</details>
+
 ## ABSTRACT
 <p align="justify">Hotel booking websites are web-based applications that allow users to search for and book hotel rooms online. These websites typically provide users with a variety of search criteria, such as location, price, and amenities, to help them find the perfect hotel for their needs. Once a user has found a hotel that they are interested in, they can usually book the room directly through the website.</p>
 
@@ -83,23 +102,35 @@ DOWNLOAD the zip file "Hotel Booking Website"
 
 ## SCREENSHOTS
 
-Home Page:
+<b> Home Page: </b>
+
 ![index](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181018.png)
-![index]()
-![index]()
-![index]()
-User Registration:
-![register]()
-User Login:
-![login]()
-Rooms Page:
-![rooms]()
-Admin 
-![admin]()
-![admin]()
-![admin]()
 
+![index](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181020.png)
 
+![index](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181205.png)
+
+![index](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181207.png)
+
+<b> User Registration: </b>
+
+![register](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181326.png)
+
+<b> User Login: </b>
+
+![login](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181337.png)
+
+<b> Rooms Page: </b>
+
+![rooms](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181426.png)
+
+<b> Admin Dashboard: </b>
+
+![admin](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181544.png)
+
+![admin](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181645.png)
+
+![admin](https://raw.githubusercontent.com/iAmey001/Hotel-Booking-Website/main/Screenshots/Screenshot%202023-06-29%20181705.png)
 
 <br>
 
