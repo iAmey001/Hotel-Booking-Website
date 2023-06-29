@@ -84,3 +84,12 @@ DOWNLOAD the zip file "Hotel Booking Website"
 ## SCREENSHOTS
 
 
+   
+<br>
+
+## CONTRIBUTORS
+
+<ul>
+  <li> <a href="https://github.com/iAmey001"> Amey Vinerkar </a> </li>
+  <li> <a href="https://github.com/NealMehtaa"> Neal Mehta </a> </li>
+</ul>
