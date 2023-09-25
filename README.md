@@ -1,13 +1,5 @@
 # HOTEL BOOKING WEBSITE
-
-<div align="center">
-  
-  ![](https://img.shields.io/github/forks/iAmey001/Hotel-Booking-Website?style=for-the-badge) &emsp; &emsp;
-  ![](https://img.shields.io/github/stars/iAmey001/Hotel-Booking-Website?style=for-the-badge)
-</div>
-
-<hr>
-
+<br>
 <details>
 <summary>Table of Contents</summary>
 
